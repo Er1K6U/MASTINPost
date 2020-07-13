@@ -21,3 +21,17 @@ body
 {
     font-size: 20px;
 }
+
+#cabecera{
+    height: 100%;
+    padding: 30px;
+    color: white;
+    background-color: blue;
+    border-radius: 2px solid black;
+    text-align: center;
+    font-size: 24px;
+}
+#cabecera span{
+    color: chartreuse;
+    font-weight: bold;
+}
