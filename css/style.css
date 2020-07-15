@@ -37,7 +37,11 @@ body
     font-weight: bold;
 }
 
-#cavecera #logo{
+#cabecera #logo{
     width: 20px;
     vertical-align: middle;
+}
+
+#post{
+    background-color: white;
 }
