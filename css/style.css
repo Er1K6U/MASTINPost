@@ -35,3 +35,11 @@ body
     color: chartreuse;
     font-weight: bold;
 }
+
+#footer{
+    background-color:yellowgreen;
+    text-align: center;
+    color: brown;
+    font-size: 20px;
+    padding: 10em;
+}
