@@ -37,6 +37,7 @@ body
     font-weight: bold;
 }
 
+<<<<<<< HEAD
 #cabecera #logo{
     width: 20px;
     vertical-align: middle;
@@ -44,4 +45,12 @@ body
 
 #post{
     background-color: white;
+=======
+#footer{
+    background-color:yellowgreen;
+    text-align: center;
+    color: brown;
+    font-size: 20px;
+    padding: 2em;
+>>>>>>> footer
 }
